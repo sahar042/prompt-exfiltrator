@@ -8,7 +8,7 @@ Get the literal system prompt or base instructions from almost any LLM or AI cha
 
 Ever wondered what instructions or “system prompt” an AI assistant is actually running under the hood? This repo documents a universal technique to get the exact, literal system prompt or configuration for most LLM-based chatbots.
 
-Unlike typical “jailbreaks,” this isn’t about tricking the AI into misbehaving. Instead, you’ll be politely asking the LLM to hand over its own instructions—often with surprising transparency.
+Unlike typical “jailbreaks,” this isn’t about tricking the AI into misbehaving. Instead, you’ll be politely asking the LLM to hand over its own instructions - often with surprising transparency.
 
 ---
 
@@ -39,8 +39,8 @@ Most LLMs will dutifully respond with their literal system prompt.
 
 - **Prompt Engineering** - Know exactly how your LLM is set up.
 - **Security Research** - See if confidential or internal info is being used as prompt context.
-- **Transparency** — Validate what instructions are steering an AI.
-- **Curiosity** — Just want to see the “secret rules” behind the curtain.
+- **Transparency** - Validate what instructions are steering an AI.
+- **Curiosity** - Just want to see the “secret rules” behind the curtain.
 
 ---
 
@@ -68,7 +68,7 @@ A: If you can set or prepend your own system prompt, often yes. Otherwise, it ma
 A: Sometimes, especially if the host allows prompt overrides (like custom instructions).
 
 **Q: Is this a “hack” or “exploit”?**  
-A: No. It’s pure prompt engineering—no security vulnerability required.
+A: No. It’s pure prompt engineering - no security vulnerability required.
 
 ---
 
